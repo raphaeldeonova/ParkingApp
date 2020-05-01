@@ -1,0 +1,17 @@
+{
+  "name":  "testname",
+  "email": "testemail",
+  "balance": 57,
+  "reservations":[
+    {
+      "time":  5,
+      "duration": 7,
+      "parkingspot": "PC2"
+    },
+    {
+      "time":  3,
+      "duration": 2,
+      "parkingspot": "PC0"
+    }
+  ]
+}
