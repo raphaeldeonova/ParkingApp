@@ -1,6 +1,9 @@
-# Parking App
+# QuikPark
 
 ## Downtown parking is ~~hard~~ easy
+
+*This app is made for CPSC 210 Term Project at UBC*
+
 
 Have you ever been stuck searching for parking spots at a crowded mall?
 This application easily lets you search available parking spots and book them!
